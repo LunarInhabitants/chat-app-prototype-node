@@ -1,0 +1,26 @@
+{
+  "name": "chat-app-prototype-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LunarInhabitants/chat-app-prototype-node-api.git"
+  },
+  "author": "lunar-inhabitants",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LunarInhabitants/chat-app-prototype-node-api/issues"
+  },
+  "homepage": "https://github.com/LunarInhabitants/chat-app-prototype-node-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
